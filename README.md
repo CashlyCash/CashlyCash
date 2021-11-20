@@ -10,7 +10,7 @@ I have a youtube channel which is kinda dead but yeh go subscribe I will make it
 ## Discord - 
 
 I have a discord server with many people so go check that out too!
-<iframe src="https://discord.com/widget?id=877192208510509086&theme=dark" width="100%" height="600" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+https://discord.com/widget?id=877192208510509086&theme=dark
 
 ## Bot -
 I have a discord bot toooooooooo go check it out -
