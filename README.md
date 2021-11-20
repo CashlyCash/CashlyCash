@@ -1,16 +1,17 @@
-### Hi there 👋
+# Cashly_Cash
+## Coding -
+Yes! I am a self-taught coder with cool projects which I work on replit.
 
-<!--
-**CashlyCash/CashlyCash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My replit - [SH1FT3R](https://replit.com/@SH1FT3R/)
 
-Here are some ideas to get you started:
+## Youtube -
+I have a youtube channel which is kinda dead but yeh go subscribe I will make it alive when I will finish my first [NPM PACKAGE](https://github.com/CashlyCash/Anti-Craft) go a head and check that out too
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Discord - 
+
+I have a discord server with many people so go check that out too!
+<iframe src="https://discord.com/widget?id=877192208510509086&theme=dark" width="100%" height="600" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+## Bot -
+I have a discord bot toooooooooo go check it out -
+https://arnav.is-a.dev/anti-matter
