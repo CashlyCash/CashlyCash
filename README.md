@@ -10,7 +10,7 @@ I have a youtube channel which is kinda dead but yeh go subscribe I will make it
 ## Discord - 
 
 I have a discord server with many people so go check that out too!
-https://discord.com/widget?id=877192208510509086&theme=dark
+https://arnav.is-a.dev/discord
 
 ## Bot -
 I have a discord bot toooooooooo go check it out -
